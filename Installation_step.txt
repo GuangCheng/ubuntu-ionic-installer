@@ -1,0 +1,9 @@
+cd ubuntu-ionic-installer
+
+chmod 775 ubuntu_ionic_installer.sh
+
+sudo ./ubuntu_ionic_installer.sh
+
+Then get coffee and relax until the install is done you can
+
+to check just type ionic in the terminal
