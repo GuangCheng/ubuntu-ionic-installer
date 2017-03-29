@@ -1,7 +1,7 @@
 
 # Ubuntu Ionic Installer
 
-Installs Android, Apache Ant, Gradle, Java JDK, Node.js, Apache Cordova, and Ionic Framework on Ubuntu x64 and x86 architectures.  Has been tested with Ubuntu 16.04 Trusty Tahr.
+Installs Android, Apache Ant, Gradle, Java JDK, Node.js, Apache Cordova, and Ionic Framework on Ubuntu x64 and x86 architectures.  Has been tested with Ubuntu 16.04.
 
 ## Resources
 
